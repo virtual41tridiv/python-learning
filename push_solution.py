@@ -31,7 +31,7 @@ TOPIC_FOLDERS = [
 
 STATUS_MAP = {
     "04_variables_numbers_strings":    "✅ Done",
-    "05_lists_if_for_loop":            "🔄 In Progress",
+    "05_lists_if_for_loop":            "✅ Done",
     "06_functions_dicts_tuples_file":  "⏳ Next",
     "07_classes_exceptions":           "⏳ Next",
     "08_numpy":                        "⏳ Next",

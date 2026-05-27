@@ -7,7 +7,7 @@
 | Module | Topic | Status |
 |--------|-------|--------|
 | 4 | Variables, Numbers and Strings | ✅ Done |
-| 5 | Lists, If Condition and For Loop | 🔄 In Progress |
+| 5 | Lists, If Condition and For Loop | ✅ Done |
 | 6 | Functions, Dictionaries, Tuples and File Handling | ⏳ Next |
 | 7 | Classes and Exception Handling | ⏳ Next |
 | 8 | NumPy | ⏳ Next |
