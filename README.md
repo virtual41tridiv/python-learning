@@ -9,8 +9,8 @@
 | 4 | Variables, Numbers and Strings | ✅ Done |
 | 5 | Lists, If Condition and For Loop | ✅ Done |
 | 6 | Functions, Dictionaries, Tuples and File Handling | ✅ Done|
-| 7 | Classes and Exception Handling | ⏳ Next |
-| 8 | NumPy | ⏳ Next |
+| 7 | Classes and Exception Handling | ✅ Done |
+| 8 | NumPy | ✅ Done |
 | 9 | EDA Using Pandas, Matplotlib and Seaborn | ⏳ Next |
 | 10 | Project 1: EDA in Hospitality Domain | ⏳ Next |
 | 11 | Comprehensions and Sets | ⏳ Next |
