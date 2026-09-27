@@ -12,8 +12,8 @@
 | 7 | Classes and Exception Handling | ✅ Done |
 | 8 | NumPy | ✅ Done |
 | 9 | EDA Using Pandas, Matplotlib and Seaborn | ✅ Done|
-| 10 | Project 1: EDA in Hospitality Domain | ⏳ Next |
-| 11 | Comprehensions and Sets | ⏳ Next |
+| 10 | Project 1: EDA in Hospitality Domain | ✅ Done |
+| 11 | Comprehensions and Sets | ⏳ In Progress |
 | 12 | JSON, Generators and Decorators | ⏳ Next |
 | 13 | APIs | ⏳ Next |
 | 14 | Logging, Pytest, Pydantic and Databases | ⏳ Next |
