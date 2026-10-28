@@ -1,0 +1,5 @@
+2026-10-28 12:40:43,483 - my_logger - DEBUG - This is a debug message from my_logger
+2026-10-28 12:40:43,483 - my_logger - INFO - This is an info message from my_logger
+2026-10-28 12:40:43,483 - my_logger - WARNING - This is a warning message from my_logger
+2026-10-28 12:40:43,483 - my_logger - ERROR - This is an error message from my_logger
+2026-10-28 12:40:43,483 - my_logger - CRITICAL - This is a critical message from my_logger

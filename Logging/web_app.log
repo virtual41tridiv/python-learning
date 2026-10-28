@@ -1,0 +1,7 @@
+2026-10-28 12:40:03,537 - INFO - User Tridiv Swain logged in
+2026-10-28 12:40:03,537 - ERROR - Error processing data: Invalid data
+Traceback (most recent call last):
+  File "/Users/tridivswain/python-learning/Logging/logging_2.py", line 18, in process_data
+    raise ValueError("Invalid data")
+ValueError: Invalid data
+2026-10-28 12:40:03,539 - INFO - User Tridiv Swain logged out
